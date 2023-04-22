@@ -1,11 +1,9 @@
-## My Project
+## Generating slogans from product images
 
-TODO: Fill this README out!
+This example Jupyter notebook shows how to use a generative AI foundation model to generate product slogans from product images. 
 
-Be sure to:
+See the notebook for more details. It is fully self-contained.
 
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
